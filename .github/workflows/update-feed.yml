@@ -26,7 +26,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Build Merchant Center feed
-        run: python scraper_v4.py
+        run: python scraper_v5.py
 
       - name: Commit updated feed
         run: |
