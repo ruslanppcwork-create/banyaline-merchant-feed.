@@ -1,25 +1,13 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-"""
-Banya Line -> Google Merchant Center XML feed
-
-Source: https://banyaline.by
-Output: merchant.xml
-
-The script:
-1) discovers /catalog/... URLs through sitemap and catalog crawling;
-2) parses product data from JSON-LD / OpenGraph / HTML fallbacks;
-3) generates an RSS 2.0 Google Merchant XML feed.
-"""
-
 from __future__ import annotations
 
+import hashlib
 import json
 import re
 import sys
 import time
-import hashlib
 from datetime import datetime, timezone
 from html import unescape
 from urllib.parse import urljoin, urlparse
@@ -35,24 +23,20 @@ OUTPUT_FILE = "merchant.xml"
 
 HEADERS = {
     "User-Agent": (
-        "Mozilla/5.0 (compatible; BanyaLineMerchantFeed/1.0; "
+        "Mozilla/5.0 (compatible; BanyaLineMerchantFeed/2.0; "
         "+https://banyaline.by)"
     ),
     "Accept-Language": "ru-RU,ru;q=0.9,en;q=0.7",
 }
 
 REQUEST_TIMEOUT = 30
-REQUEST_DELAY = 0.25
+REQUEST_DELAY = 0.20
 MAX_CRAWL_PAGES = 300
 
-# Google Merchant RSS namespace
 G_NS = "http://base.google.com/ns/1.0"
-
-# We deliberately keep titles close to the landing-page titles.
 BRAND = "Banya Line"
 CURRENCY = "BYN"
 
-# Product type classification for reporting / Merchant structure.
 TYPE_RULES = [
     (("матрас",), "Баня и сауна > Матрасы"),
     (("валик",), "Баня и сауна > Валики"),
@@ -68,17 +52,39 @@ TYPE_RULES = [
     (("шорт",), "Баня и сауна > Одежда > Шорты"),
     (("костюм",), "Баня и сауна > Одежда > Костюмы"),
     (("набор", "комплект"), "Баня и сауна > Наборы"),
+    (("запарк",), "Баня и сауна > Запарки"),
 ]
 
+# URLs that are category/landing pages, not individual product cards.
 NON_PRODUCT_SLUGS = {
     "",
     "all",
-    "matrasy",
+    "catalog",
     "matras",
-    "valiki",
+    "matrasy",
     "valik",
-    "veera",
+    "valiki",
     "veer",
+    "veera",
+    "pareo",
+    "pillow",
+    "podushka",
+    "podushki",
+    "polotence",
+    "polotenca",
+    "prostyn",
+    "prostyni",
+    "kilt",
+    "kilts",
+    "halat",
+    "halaty",
+    "metall",
+    "metal",
+    "scoop",
+    "ladle",
+    "ventilation",
+    "zaparka",
+    "zaparki",
     "clothes",
     "odezhda",
     "accessories",
@@ -87,25 +93,15 @@ NON_PRODUCT_SLUGS = {
     "kits",
     "nabory",
     "izdeliya",
-    "kilt",
-    "pareo",
-    "halat",
-    "polotence",
-    "prostyni",
-    "metall",
-    "metal",
     "derevo",
-    "podushki",
-    "pillow",
 }
-
 
 session = requests.Session()
 session.headers.update(HEADERS)
 
 
-def clean_text(value: str | None) -> str:
-    if not value:
+def clean_text(value) -> str:
+    if value is None:
         return ""
     value = unescape(str(value))
     value = re.sub(r"<[^>]+>", " ", value)
@@ -143,16 +139,11 @@ def discover_from_sitemap() -> set[str]:
 
         try:
             response = get(sitemap)
-        except Exception:
-            continue
-
-        try:
             root = etree.fromstring(response.content)
         except Exception:
             continue
 
-        locs = root.xpath("//*[local-name()='loc']/text()")
-        for loc in locs:
+        for loc in root.xpath("//*[local-name()='loc']/text()"):
             loc = clean_text(loc)
             if not loc:
                 continue
@@ -167,7 +158,6 @@ def discover_from_sitemap() -> set[str]:
 
 
 def discover_by_crawling() -> set[str]:
-    """Crawl only catalog-related pages and collect /catalog/... URLs."""
     discovered = set()
     queue = [CATALOG_URL]
     visited = set()
@@ -199,7 +189,7 @@ def discover_by_crawling() -> set[str]:
 
 
 def json_ld_objects(soup: BeautifulSoup):
-    for script in soup.find_all("script", type=re.compile("ld\\+json", re.I)):
+    for script in soup.find_all("script", type=re.compile(r"ld\+json", re.I)):
         raw = script.string or script.get_text()
         if not raw:
             continue
@@ -220,13 +210,13 @@ def json_ld_objects(soup: BeautifulSoup):
                     stack.extend(graph)
 
 
-def find_product_jsonld(soup: BeautifulSoup) -> dict | None:
+def find_product_jsonld(soup: BeautifulSoup) -> dict:
     for obj in json_ld_objects(soup):
         typ = obj.get("@type")
         types = typ if isinstance(typ, list) else [typ]
         if any(str(t).lower() == "product" for t in types if t):
             return obj
-    return None
+    return {}
 
 
 def meta(soup: BeautifulSoup, *names: str) -> str:
@@ -254,12 +244,11 @@ def first_image_from_jsonld(product: dict) -> str:
     return ""
 
 
-def parse_price(value) -> str:
+def parse_number(value) -> str:
     if value is None:
         return ""
-    text = clean_text(str(value)).replace("\xa0", " ")
-    # 305,00 / 305.00 / 1 250
-    match = re.search(r"(\d[\d\s]*[.,]?\d*)", text)
+    text = clean_text(value).replace("\xa0", " ")
+    match = re.search(r"(\d[\d\s]*(?:[.,]\d{1,2})?)", text)
     if not match:
         return ""
     number = match.group(1).replace(" ", "").replace(",", ".")
@@ -272,6 +261,76 @@ def parse_price(value) -> str:
     if amount.is_integer():
         return str(int(amount))
     return f"{amount:.2f}".rstrip("0").rstrip(".")
+
+
+def extract_price(product: dict, soup: BeautifulSoup, html: str, body_text: str) -> str:
+    offers = product.get("offers") or {}
+    if isinstance(offers, list):
+        offers = offers[0] if offers else {}
+    if not isinstance(offers, dict):
+        offers = {}
+
+    candidates = [
+        offers.get("price"),
+        offers.get("lowPrice"),
+        product.get("price"),
+        meta(soup, "product:price:amount"),
+    ]
+
+    # Tilda often stores price in data attributes / JS rather than Product JSON-LD.
+    raw_patterns = [
+        r'data-product-price=["\']\s*([^"\']+)',
+        r'data-product-price-def=["\']\s*([^"\']+)',
+        r'["\']price["\']\s*:\s*["\']?(\d+(?:[.,]\d+)?)',
+        r'["\']amount["\']\s*:\s*["\']?(\d+(?:[.,]\d+)?)',
+    ]
+    for pattern in raw_patterns:
+        m = re.search(pattern, html, flags=re.I)
+        if m:
+            candidates.append(m.group(1))
+
+    # Final fallback: visible page text such as "90 BYN".
+    visible_prices = re.findall(
+        r'(?<!\d)(\d{1,6}(?:[ \xa0]\d{3})*(?:[.,]\d{1,2})?)\s*BYN\b',
+        body_text,
+        flags=re.I,
+    )
+    candidates.extend(visible_prices)
+
+    for candidate in candidates:
+        parsed = parse_number(candidate)
+        if parsed:
+            return parsed
+    return ""
+
+
+def extract_image(product: dict, soup: BeautifulSoup, page_url: str) -> str:
+    image = first_image_from_jsonld(product)
+    if image:
+        return urljoin(page_url, image)
+
+    image = meta(soup, "og:image", "twitter:image")
+    if image:
+        return urljoin(page_url, image)
+
+    # Tilda lazy-loaded product images.
+    possible = []
+    for img in soup.find_all("img"):
+        for attr in ("data-original", "data-src", "src"):
+            src = img.get(attr)
+            if not src:
+                continue
+            src = clean_text(src)
+            if not src:
+                continue
+            lower = src.lower()
+            if "tildacdn" not in lower:
+                continue
+            if any(x in lower for x in ("logo", "icon", "favicon", ".svg")):
+                continue
+            possible.append(urljoin(page_url, src))
+
+    return possible[0] if possible else ""
 
 
 def extract_offer(product: dict) -> dict:
@@ -297,8 +356,6 @@ def normalize_availability(raw: str, body_text: str) -> str:
     if any(x in body for x in ("нет в наличии", "товар закончился", "распродано")):
         return "out_of_stock"
 
-    # The public shop presents the product for ordering and no "out of stock"
-    # signal was found.
     return "in_stock"
 
 
@@ -326,15 +383,21 @@ def make_id(url: str, sku: str = "") -> str:
 
 
 def parse_product(url: str) -> dict | None:
+    slug = slug_from_url(url).lower()
+    if slug in NON_PRODUCT_SLUGS:
+        print(f"  category landing: {url}")
+        return None
+
     try:
         response = get(url)
     except Exception as exc:
         print(f"[WARN] Cannot fetch {url}: {exc}", file=sys.stderr)
         return None
 
-    soup = BeautifulSoup(response.text, "html.parser")
+    html = response.text
+    soup = BeautifulSoup(html, "html.parser")
     body_text = clean_text(soup.get_text(" ", strip=True))
-    product = find_product_jsonld(soup) or {}
+    product = find_product_jsonld(soup)
     offer = extract_offer(product)
 
     title = clean_text(product.get("name"))
@@ -344,24 +407,21 @@ def parse_product(url: str) -> dict | None:
         h1 = soup.find("h1")
         title = clean_text(h1.get_text(" ", strip=True) if h1 else "")
 
+    # Clean common site-name suffixes from social titles.
+    title = re.sub(r"\s*[-—|]\s*Banya\s*Line\s*$", "", title, flags=re.I).strip()
+
     description = clean_text(product.get("description"))
     if not description:
         description = meta(soup, "description", "og:description")
     if not description:
-        # Keep the feed valid even if the page has no meta description.
+        # Try a meaningful H2/H3/paragraph before falling back to title.
+        paragraph = soup.find("p")
+        description = clean_text(paragraph.get_text(" ", strip=True) if paragraph else "")
+    if not description:
         description = title
 
-    image = first_image_from_jsonld(product)
-    if not image:
-        image = meta(soup, "og:image", "twitter:image")
-    image = urljoin(url, image) if image else ""
-
-    price = parse_price(
-        offer.get("price")
-        or offer.get("lowPrice")
-        or product.get("price")
-        or meta(soup, "product:price:amount")
-    )
+    image = extract_image(product, soup, url)
+    price = extract_price(product, soup, html, body_text)
 
     currency = clean_text(
         offer.get("priceCurrency")
@@ -384,14 +444,16 @@ def parse_product(url: str) -> dict | None:
     canonical_url = canonicalize(canonical.get("href")) if canonical else url
     canonical_url = canonical_url or url
 
-    # Category/list pages usually have no price. Product pages must have
-    # title + price + image for Merchant.
-    if not title or not price or not image:
-        return None
+    missing = []
+    if not title:
+        missing.append("title")
+    if not price:
+        missing.append("price")
+    if not image:
+        missing.append("image")
 
-    # Avoid category landing pages that happen to contain aggregate price text.
-    slug = slug_from_url(canonical_url).lower()
-    if slug in NON_PRODUCT_SLUGS:
+    if missing:
+        print(f"  skip reason={','.join(missing)} url={url}")
         return None
 
     return {
@@ -405,8 +467,6 @@ def parse_product(url: str) -> dict | None:
         "brand": brand,
         "condition": "new",
         "product_type": classify_product(title, description, canonical_url),
-        # Do not invent GTIN/EAN/MPN. If manufacturer identifiers are later
-        # assigned, this field should be changed and those identifiers added.
         "identifier_exists": "no",
     }
 
@@ -473,7 +533,6 @@ def main():
         else:
             print(f"[{index}/{len(candidates)}] skip: {url}")
 
-    # Remove accidental duplicates by ID; keep first occurrence.
     unique = {}
     for p in products:
         unique.setdefault(p["id"], p)
@@ -481,8 +540,7 @@ def main():
 
     if not products:
         raise RuntimeError(
-            "No products found. The site markup may have changed. "
-            "Check GitHub Actions logs."
+            "No products found. See 'skip reason=' lines above."
         )
 
     build_feed(products)
