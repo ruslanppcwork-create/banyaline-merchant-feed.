@@ -3,852 +3,1119 @@
   <channel>
     <title>Banya Line</title>
     <link>https://banyaline.by</link>
-    <description>Google Merchant Center product feed for Banya Line</description>
-    <lastBuildDate>Mon, 17 Aug 2026 21:09:51 +0000</lastBuildDate>
+    <description>Banya Line Google Merchant Center feed from Tilda Store API</description>
+    <lastBuildDate>Mon, 17 Aug 2026 22:58:36 +0000</lastBuildDate>
     <item>
-      <g:id>black-kit</g:id>
-      <g:title>Полный комплект (чёрный)</g:title>
-      <g:description>Полный комплект (чёрный)</g:description>
-      <g:link>https://banyaline.by/catalog/black-kit</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>549 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Наборы</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>black-kittwo</g:id>
-      <g:title>Второе дыхание. Полный комплект (чёрный)</g:title>
-      <g:description>Второе дыхание. Полный комплект (чёрный)</g:description>
-      <g:link>https://banyaline.by/catalog/black-kittwo</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>594 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Наборы</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>black-metall</g:id>
-      <g:title>Второе дыхание. Чёрный металл</g:title>
-      <g:description>Второе дыхание. Чёрный металл</g:description>
+      <g:id>114030622912-black-metall</g:id>
+      <g:item_group_id>114030622912</g:item_group_id>
+      <g:title>Второе дыхание. Металл, Чёрныйметалл</g:title>
+      <g:description>Второе дыхание. Металл Banya Line — товар для бани и сауны.</g:description>
       <g:link>https://banyaline.by/catalog/black-metall</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
+      <g:image_link>https://static.tildacdn.biz/stor3763-6465-4634-a531-376539316333/180e89190a70aad0fa85c4311d7f1864.jpg</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>500 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
+      <g:price>470.00 BYN</g:price>
       <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
       <g:product_type>Баня и сауна &gt; Аксессуары</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:color>Чёрныйметалл</g:color>
     </item>
     <item>
-      <g:id>bord-kit</g:id>
-      <g:title>Полный комплект (бордовый)</g:title>
-      <g:description>Полный комплект (бордовый)</g:description>
-      <g:link>https://banyaline.by/catalog/bord-kit</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
+      <g:id>114030622912-metall</g:id>
+      <g:item_group_id>114030622912</g:item_group_id>
+      <g:title>Второе дыхание. Металл</g:title>
+      <g:description>Второе дыхание. Металл Banya Line — товар для бани и сауны.</g:description>
+      <g:link>https://banyaline.by/catalog/metall</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor6564-6265-4337-b335-383063643938/a5335b26d8c62f513675b1d0066ce04f.jpg</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>549 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
+      <g:price>470.00 BYN</g:price>
       <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Наборы</g:product_type>
+      <g:brand>Banya Line</g:brand>
       <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>bord-kittwo</g:id>
-      <g:title>Второе дыхание. Полный комплект (бордовый)</g:title>
-      <g:description>Второе дыхание. Полный комплект (бордовый)</g:description>
-      <g:link>https://banyaline.by/catalog/bord-kittwo</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>594 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Наборы</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>box</g:id>
-      <g:title>Бокс из трав и веников</g:title>
-      <g:description>Бокс из трав и веников</g:description>
-      <g:link>https://banyaline.by/catalog/box</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>230 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
       <g:product_type>Баня и сауна &gt; Аксессуары</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:color>Металл</g:color>
     </item>
     <item>
-      <g:id>broom</g:id>
-      <g:title>Запарник для веников</g:title>
-      <g:description>Запарник для веников</g:description>
-      <g:link>https://banyaline.by/catalog/broom</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>115 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Аксессуары</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>brown-kit</g:id>
-      <g:title>Полный комплект (коричневый)</g:title>
-      <g:description>Полный комплект (коричневый)</g:description>
-      <g:link>https://banyaline.by/catalog/brown-kit</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>549 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Наборы</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>brown-kittwo</g:id>
-      <g:title>Второе дыхание. Полный комплект (коричневый)</g:title>
-      <g:description>Второе дыхание. Полный комплект (коричневый)</g:description>
-      <g:link>https://banyaline.by/catalog/brown-kittwo</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>594 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Наборы</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>carrier-black</g:id>
-      <g:title>Переноска для дров (чёрная)</g:title>
-      <g:description>Переноска для дров (чёрная)</g:description>
-      <g:link>https://banyaline.by/catalog/carrier-black</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>405 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Аксессуары</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>carrier-bord</g:id>
-      <g:title>Переноска для дров (бордовая)</g:title>
-      <g:description>Переноска для дров (бордовая)</g:description>
-      <g:link>https://banyaline.by/catalog/carrier-bord</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>405 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Аксессуары</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>carrier-brown</g:id>
-      <g:title>Переноска для дров (коричневая)</g:title>
-      <g:description>Переноска для дров (коричневая)</g:description>
-      <g:link>https://banyaline.by/catalog/carrier-brown</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>405 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Аксессуары</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>carrier-haki</g:id>
-      <g:title>Переноска для дров (хаки)</g:title>
-      <g:description>Переноска для дров (хаки)</g:description>
-      <g:link>https://banyaline.by/catalog/carrier-haki</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>405 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Аксессуары</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>haki-kit</g:id>
-      <g:title>Полный комплект (хаки)</g:title>
-      <g:description>Полный комплект (хаки)</g:description>
-      <g:link>https://banyaline.by/catalog/haki-kit</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>549 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Наборы</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>haki-kittwo</g:id>
-      <g:title>Второе дыхание. Полный комплект (хаки)</g:title>
-      <g:description>Второе дыхание. Полный комплект (хаки)</g:description>
-      <g:link>https://banyaline.by/catalog/haki-kittwo</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>594 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Наборы</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>hanger-shelf</g:id>
-      <g:title>Вешалка-полка из массива дуба</g:title>
-      <g:description>Вешалка-полка из массива дуба</g:description>
-      <g:link>https://banyaline.by/catalog/hanger-shelf</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>385 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Аксессуары</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>hanger1</g:id>
-      <g:title>Фито-полка с одним отверстием</g:title>
-      <g:description>Фито-полка с одним отверстием</g:description>
-      <g:link>https://banyaline.by/catalog/hanger1</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>85 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Аксессуары</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>hanger2</g:id>
-      <g:title>Компактная вешалка для веников с тремя отверстиями</g:title>
-      <g:description>Компактная вешалка для веников с тремя отверстиями</g:description>
-      <g:link>https://banyaline.by/catalog/hanger2</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>185 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Аксессуары</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>hanger3</g:id>
-      <g:title>Вешалка для веников с тремя отверстиями</g:title>
-      <g:description>Вешалка для веников с тремя отверстиями</g:description>
-      <g:link>https://banyaline.by/catalog/hanger3</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>185 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Аксессуары</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>juniper</g:id>
-      <g:title>Комплект для парения из можжевельника</g:title>
-      <g:description>Комплект для парения из можжевельника</g:description>
-      <g:link>https://banyaline.by/catalog/juniper</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>795 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Можжевеловые панно</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>kilt-grafit</g:id>
-      <g:title>Килт (графитовый)</g:title>
-      <g:description>Килт (графитовый)</g:description>
-      <g:link>https://banyaline.by/catalog/kilt-grafit</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>75 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Одежда &gt; Килты</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>kilt-white</g:id>
-      <g:title>Килт (бежевый)</g:title>
-      <g:description>Килт (бежевый)</g:description>
-      <g:link>https://banyaline.by/catalog/kilt-white</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>75 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Одежда &gt; Килты</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>ladle-hanger</g:id>
-      <g:title>Настенная вешалка из дуба</g:title>
-      <g:description>Настенная вешалка из дуба</g:description>
-      <g:link>https://banyaline.by/catalog/ladle-hanger</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>65 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Аксессуары</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>matras-black</g:id>
-      <g:title>Матрас (чёрный)</g:title>
-      <g:description>Матрас (чёрный)</g:description>
-      <g:link>https://banyaline.by/catalog/matras-black</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>275 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Матрасы</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>matras-bord</g:id>
-      <g:title>Матрас (бордовый)</g:title>
-      <g:description>Матрас (бордовый)</g:description>
-      <g:link>https://banyaline.by/catalog/matras-bord</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>275 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Матрасы</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>matras-brown</g:id>
-      <g:title>Матрас (коричневый)</g:title>
-      <g:description>Матрас (коричневый)</g:description>
-      <g:link>https://banyaline.by/catalog/matras-brown</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>275 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Матрасы</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>matras-haki</g:id>
-      <g:title>Матрас (хаки)</g:title>
-      <g:description>Матрас (хаки)</g:description>
-      <g:link>https://banyaline.by/catalog/matras-haki</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>275 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Матрасы</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>pareo-persik</g:id>
-      <g:title>Парео (нежный персик)</g:title>
-      <g:description>Парео (нежный персик)</g:description>
-      <g:link>https://banyaline.by/catalog/pareo-persik</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>85 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Одежда &gt; Парео</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>pareo-rose</g:id>
-      <g:title>Парео (розовое)</g:title>
-      <g:description>Парео (розовое)</g:description>
-      <g:link>https://banyaline.by/catalog/pareo-rose</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>85 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Одежда &gt; Парео</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>pareo-white</g:id>
-      <g:title>Парео (бежевое)</g:title>
-      <g:description>Парео (бежевое)</g:description>
-      <g:link>https://banyaline.by/catalog/pareo-white</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>85 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Одежда &gt; Парео</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>pillow-black</g:id>
-      <g:title>Подушка (чёрная)</g:title>
-      <g:description>Подушка (чёрная)</g:description>
-      <g:link>https://banyaline.by/catalog/pillow-black</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>115 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Подушки</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>pillow-bord</g:id>
-      <g:title>Подушка (бордовая)</g:title>
-      <g:description>Подушка (бордовая)</g:description>
-      <g:link>https://banyaline.by/catalog/pillow-bord</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>115 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Подушки</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>pillow-brown</g:id>
-      <g:title>Подушка (коричневая)</g:title>
-      <g:description>Подушка (коричневая)</g:description>
-      <g:link>https://banyaline.by/catalog/pillow-brown</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>115 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Подушки</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>pillow-haki</g:id>
-      <g:title>Подушка (хаки)</g:title>
-      <g:description>Подушка (хаки)</g:description>
-      <g:link>https://banyaline.by/catalog/pillow-haki</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>115 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Подушки</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>pillowtwo-black</g:id>
-      <g:title>Подушка «Второе дыхание» (чёрная)</g:title>
-      <g:description>Подушка «Второе дыхание» (чёрная)</g:description>
-      <g:link>https://banyaline.by/catalog/pillowtwo-black</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>105 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Подушки</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>pillowtwo-bord</g:id>
-      <g:title>Подушка «Второе дыхание» (бордовая)</g:title>
-      <g:description>Подушка «Второе дыхание» (бордовая)</g:description>
-      <g:link>https://banyaline.by/catalog/pillowtwo-bord</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>105 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Подушки</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>pillowtwo-brown</g:id>
-      <g:title>Подушка «Второе дыхание» (коричневая)</g:title>
-      <g:description>Подушка «Второе дыхание» (коричневая)</g:description>
-      <g:link>https://banyaline.by/catalog/pillowtwo-brown</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>105 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Подушки</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>pillowtwo-haki</g:id>
-      <g:title>Подушка «Второе дыхание» (хаки)</g:title>
-      <g:description>Подушка «Второе дыхание» (хаки)</g:description>
-      <g:link>https://banyaline.by/catalog/pillowtwo-haki</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>105 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Подушки</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>polotence-blue</g:id>
-      <g:title>Полотенце (тёмно-синее)</g:title>
-      <g:description>Полотенце (тёмно-синее)</g:description>
-      <g:link>https://banyaline.by/catalog/polotence-blue</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>95 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Текстиль &gt; Полотенца</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>polotence-chocolate</g:id>
-      <g:title>Полотенце (шоколад)</g:title>
-      <g:description>Полотенце (шоколад)</g:description>
-      <g:link>https://banyaline.by/catalog/polotence-chocolate</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>95 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Текстиль &gt; Полотенца</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>polotence-milk</g:id>
-      <g:title>Полотенце (молочное)</g:title>
-      <g:description>Полотенце (молочное)</g:description>
-      <g:link>https://banyaline.by/catalog/polotence-milk</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>95 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Текстиль &gt; Полотенца</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>prostyn-rubber</g:id>
-      <g:title>Простыня на резинке</g:title>
-      <g:description>Простыня на резинке</g:description>
-      <g:link>https://banyaline.by/catalog/prostyn-rubber</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>75 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Текстиль &gt; Простыни</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>prostyn-white</g:id>
-      <g:title>Простынь (натуральный лён)</g:title>
-      <g:description>Простынь (натуральный лён)</g:description>
-      <g:link>https://banyaline.by/catalog/prostyn-white</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>60 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Текстиль &gt; Простыни</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>strait-black</g:id>
-      <g:title>Проливной матрас (чёрный)</g:title>
-      <g:description>Проливной матрас (чёрный)</g:description>
-      <g:link>https://banyaline.by/catalog/strait-black</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>490 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Матрасы</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>strait-brown</g:id>
-      <g:title>Проливной матрас (коричневый)</g:title>
-      <g:description>Проливной матрас (коричневый)</g:description>
-      <g:link>https://banyaline.by/catalog/strait-brown</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>490 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Матрасы</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>strait-hacki</g:id>
-      <g:title>Проливной матрас (хаки)</g:title>
-      <g:description>Проливной матрас (хаки)</g:description>
-      <g:link>https://banyaline.by/catalog/strait-hacki</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>490 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Матрасы</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>straittwo-black</g:id>
-      <g:title>Проливной матрас «Второе дыхание» (чёрный)</g:title>
-      <g:description>Проливной матрас «Второе дыхание» (чёрный)</g:description>
-      <g:link>https://banyaline.by/catalog/straittwo-black</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>490 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Матрасы</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>straittwo-brown</g:id>
-      <g:title>Проливной матрас «Второе дыхание» (коричневый)</g:title>
-      <g:description>Проливной матрас «Второе дыхание» (коричневый)</g:description>
-      <g:link>https://banyaline.by/catalog/straittwo-brown</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>490 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Матрасы</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>straittwo-haki</g:id>
-      <g:title>Проливной матрас «Второе дыхание» (хаки)</g:title>
-      <g:description>Проливной матрас «Второе дыхание» (хаки)</g:description>
-      <g:link>https://banyaline.by/catalog/straittwo-haki</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>490 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Матрасы</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>valik-black1148</g:id>
-      <g:title>Валик (11х48) (чёрный)</g:title>
-      <g:description>Валик (11х48) (чёрный)</g:description>
-      <g:link>https://banyaline.by/catalog/valik-black1148</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>90 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Валики</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>valik-black1660</g:id>
-      <g:title>Валик (16х60) (чёрный)</g:title>
-      <g:description>Валик (16х60) (чёрный)</g:description>
-      <g:link>https://banyaline.by/catalog/valik-black1660</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>95 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Валики</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>valik-black2360</g:id>
-      <g:title>Валик (23х60) (чёрный)</g:title>
-      <g:description>Валик (23х60) (чёрный)</g:description>
-      <g:link>https://banyaline.by/catalog/valik-black2360</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>175 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Валики</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>valik-bord1148</g:id>
-      <g:title>Валик (11х48) (бордовый)</g:title>
-      <g:description>Валик (11х48) (бордовый)</g:description>
-      <g:link>https://banyaline.by/catalog/valik-bord1148</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>90 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Валики</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>valik-bord1660</g:id>
-      <g:title>Валик (16х60) (бордовый)</g:title>
-      <g:description>Валик (16х60) (бордовый)</g:description>
-      <g:link>https://banyaline.by/catalog/valik-bord1660</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>95 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Валики</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>valik-bord2360</g:id>
-      <g:title>Валик (23х60) (бордовый)</g:title>
-      <g:description>Валик (23х60) (бордовый)</g:description>
-      <g:link>https://banyaline.by/catalog/valik-bord2360</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>175 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Валики</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>valik-brown1148</g:id>
-      <g:title>Валик (11х48) (коричневый)</g:title>
-      <g:description>Валик (11х48) (коричневый)</g:description>
-      <g:link>https://banyaline.by/catalog/valik-brown1148</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>90 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Валики</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>valik-brown1660</g:id>
-      <g:title>Валик (16х60) (коричневый)</g:title>
-      <g:description>Валик (16х60) (коричневый)</g:description>
-      <g:link>https://banyaline.by/catalog/valik-brown1660</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>95 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Валики</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>valik-brown2360</g:id>
-      <g:title>Валик (23х60) (коричневый)</g:title>
-      <g:description>Валик (23х60) (коричневый)</g:description>
-      <g:link>https://banyaline.by/catalog/valik-brown2360</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>175 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Валики</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>valik-haki1148</g:id>
-      <g:title>Валик (11х48) (хаки)</g:title>
-      <g:description>Валик (11х48) (хаки)</g:description>
-      <g:link>https://banyaline.by/catalog/valik-haki1148</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>90 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Валики</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>valik-haki1660</g:id>
-      <g:title>Валик (16х60) (хаки)</g:title>
-      <g:description>Валик (16х60) (хаки)</g:description>
-      <g:link>https://banyaline.by/catalog/valik-haki1660</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>95 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Валики</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>valik-haki2360</g:id>
-      <g:title>Валик (23х60) (хаки)</g:title>
-      <g:description>Валик (23х60) (хаки)</g:description>
-      <g:link>https://banyaline.by/catalog/valik-haki2360</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>175 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Валики</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>veer-black</g:id>
-      <g:title>Веер (чёрный)</g:title>
-      <g:description>Веер (чёрный)</g:description>
+      <g:id>117208871892-veer-black</g:id>
+      <g:item_group_id>117208871892</g:item_group_id>
+      <g:title>Веер, Черный</g:title>
+      <g:description>Веер Banya Line для разгона пара и работы с воздушным потоком.</g:description>
       <g:link>https://banyaline.by/catalog/veer-black</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
+      <g:image_link>https://static.tildacdn.biz/stor6433-6637-4738-b865-613661613938/c60086e834d38cef9f287d85d58f6057.jpg</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>220 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
+      <g:price>245.00 BYN</g:price>
       <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Вееры</g:product_type>
+      <g:brand>Banya Line</g:brand>
       <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Вееры</g:product_type>
+      <g:color>Черный</g:color>
     </item>
     <item>
-      <g:id>veer-grafit</g:id>
-      <g:title>Веер (графит)</g:title>
-      <g:description>Веер (графит)</g:description>
+      <g:id>117208871892-veer-grafit</g:id>
+      <g:item_group_id>117208871892</g:item_group_id>
+      <g:title>Веер, Графит</g:title>
+      <g:description>Веер Banya Line для разгона пара и работы с воздушным потоком.</g:description>
       <g:link>https://banyaline.by/catalog/veer-grafit</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
+      <g:image_link>https://static.tildacdn.biz/stor6339-3637-4539-a466-343838633762/5ecf0357f2eedd7c82381cb182fce728.jpg</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>220 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
+      <g:price>245.00 BYN</g:price>
       <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Вееры</g:product_type>
+      <g:brand>Banya Line</g:brand>
       <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Вееры</g:product_type>
+      <g:color>Графит</g:color>
     </item>
     <item>
-      <g:id>veer-white</g:id>
-      <g:title>Веер (бежевый)</g:title>
-      <g:description>Веер (бежевый)</g:description>
+      <g:id>117208871892-veer-white</g:id>
+      <g:item_group_id>117208871892</g:item_group_id>
+      <g:title>Веер, Бежевый</g:title>
+      <g:description>Веер Banya Line для разгона пара и работы с воздушным потоком.</g:description>
       <g:link>https://banyaline.by/catalog/veer-white</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
+      <g:image_link>https://static.tildacdn.biz/stor6265-3731-4637-b337-336336333738/718e3c6b942d23b126ac9c61d07ed409.jpg</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>220 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
+      <g:price>245.00 BYN</g:price>
       <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Вееры</g:product_type>
+      <g:brand>Banya Line</g:brand>
       <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Вееры</g:product_type>
+      <g:color>Бежевый</g:color>
     </item>
     <item>
-      <g:id>zaparnik</g:id>
-      <g:title>Запарка</g:title>
-      <g:description>Запарка</g:description>
-      <g:link>https://banyaline.by/catalog/zaparnik</g:link>
-      <g:image_link>https://static.tildacdn.biz/tild3531-3839-4665-b031-376539633262/Frame_755829.jpg</g:image_link>
+      <g:id>136117270472-pillowtwo-black</g:id>
+      <g:item_group_id>136117270472</g:item_group_id>
+      <g:title>Подушка «Второе дыхание», Черный, 40×30 см</g:title>
+      <g:description>Подушка «Второе дыхание» Banya Line для отдыха в бане и сауне.</g:description>
+      <g:link>https://banyaline.by/catalog/pillowtwo-black</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor3966-3762-4836-b139-383837626162/41731943.jpg</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>40 BYN</g:price>
-      <g:brand>Banya Line</g:brand>
+      <g:price>115.00 BYN</g:price>
       <g:condition>new</g:condition>
-      <g:product_type>Баня и сауна &gt; Запарки</g:product_type>
+      <g:brand>Banya Line</g:brand>
       <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Подушки</g:product_type>
+      <g:color>Черный</g:color>
+      <g:size>40×30 см</g:size>
+    </item>
+    <item>
+      <g:id>136117270472-pillowtwo-bord</g:id>
+      <g:item_group_id>136117270472</g:item_group_id>
+      <g:title>Подушка «Второе дыхание», Бордовый, 40×30 см</g:title>
+      <g:description>Подушка «Второе дыхание» Banya Line для отдыха в бане и сауне.</g:description>
+      <g:link>https://banyaline.by/catalog/pillowtwo-bord</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor3432-3063-4230-b966-643566613234/91191068.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>115.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Подушки</g:product_type>
+      <g:color>Бордовый</g:color>
+      <g:size>40×30 см</g:size>
+    </item>
+    <item>
+      <g:id>136117270472-pillowtwo-brown</g:id>
+      <g:item_group_id>136117270472</g:item_group_id>
+      <g:title>Подушка «Второе дыхание», Коричневый, 40×30 см</g:title>
+      <g:description>Подушка «Второе дыхание» Banya Line для отдыха в бане и сауне.</g:description>
+      <g:link>https://banyaline.by/catalog/pillowtwo-brown</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor6336-6437-4464-a566-316465643764/16226791.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>115.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Подушки</g:product_type>
+      <g:color>Коричневый</g:color>
+      <g:size>40×30 см</g:size>
+    </item>
+    <item>
+      <g:id>136117270472-pillowtwo-haki</g:id>
+      <g:item_group_id>136117270472</g:item_group_id>
+      <g:title>Подушка «Второе дыхание», Хаки, 40×30 см</g:title>
+      <g:description>Подушка «Второе дыхание» Banya Line для отдыха в бане и сауне.</g:description>
+      <g:link>https://banyaline.by/catalog/pillowtwo-haki</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor3731-3964-4662-b433-343135326436/42181788.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>115.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Подушки</g:product_type>
+      <g:color>Хаки</g:color>
+      <g:size>40×30 см</g:size>
+    </item>
+    <item>
+      <g:id>185644566062-valik-black2360</g:id>
+      <g:item_group_id>185644566062</g:item_group_id>
+      <g:title>Валик (23х60), Черный, 23×60 см</g:title>
+      <g:description>Валик (23х60) Banya Line для комфортного положения тела во время отдыха и парения в бане и сауне.</g:description>
+      <g:link>https://banyaline.by/catalog/valik-black2360</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor3431-3064-4139-b263-386662396130/84287107.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>195.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Валики</g:product_type>
+      <g:color>Черный</g:color>
+      <g:size>23×60 см</g:size>
+    </item>
+    <item>
+      <g:id>185644566062-valik-bord2360</g:id>
+      <g:item_group_id>185644566062</g:item_group_id>
+      <g:title>Валик (23х60), Бордовый, 23×60 см</g:title>
+      <g:description>Валик (23х60) Banya Line для комфортного положения тела во время отдыха и парения в бане и сауне.</g:description>
+      <g:link>https://banyaline.by/catalog/valik-bord2360</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor6531-3630-4039-a537-373437346566/14641949.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>195.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Валики</g:product_type>
+      <g:color>Бордовый</g:color>
+      <g:size>23×60 см</g:size>
+    </item>
+    <item>
+      <g:id>185644566062-valik-brown2360</g:id>
+      <g:item_group_id>185644566062</g:item_group_id>
+      <g:title>Валик (23х60), Коричневый, 23×60 см</g:title>
+      <g:description>Валик (23х60) Banya Line для комфортного положения тела во время отдыха и парения в бане и сауне.</g:description>
+      <g:link>https://banyaline.by/catalog/valik-brown2360</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor3736-6132-4563-b832-386665643739/37862325.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>195.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Валики</g:product_type>
+      <g:color>Коричневый</g:color>
+      <g:size>23×60 см</g:size>
+    </item>
+    <item>
+      <g:id>185644566062-valik-haki2360</g:id>
+      <g:item_group_id>185644566062</g:item_group_id>
+      <g:title>Валик (23х60), Хаки, 23×60 см</g:title>
+      <g:description>Валик (23х60) Banya Line для комфортного положения тела во время отдыха и парения в бане и сауне.</g:description>
+      <g:link>https://banyaline.by/catalog/valik-haki2360</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor6136-6133-4537-b936-623733333861/70388574.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>195.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Валики</g:product_type>
+      <g:color>Хаки</g:color>
+      <g:size>23×60 см</g:size>
+    </item>
+    <item>
+      <g:id>238066390812-matras-black</g:id>
+      <g:item_group_id>238066390812</g:item_group_id>
+      <g:title>Матрас, Черный, 60×200 см</g:title>
+      <g:description>Матрас Banya Line для отдыха и парения в бане и сауне. Банный аксессуар с натуральным наполнителем.</g:description>
+      <g:link>https://banyaline.by/catalog/matras-black</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor6531-6366-4539-b438-393633396238/69746647.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>305.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Матрасы</g:product_type>
+      <g:color>Черный</g:color>
+      <g:size>60×200 см</g:size>
+    </item>
+    <item>
+      <g:id>238066390812-matras-bord</g:id>
+      <g:item_group_id>238066390812</g:item_group_id>
+      <g:title>Матрас, Бордовый, 60×200 см</g:title>
+      <g:description>Матрас Banya Line для отдыха и парения в бане и сауне. Банный аксессуар с натуральным наполнителем.</g:description>
+      <g:link>https://banyaline.by/catalog/matras-bord</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor6438-6561-4331-a464-316132343165/96038872.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>305.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Матрасы</g:product_type>
+      <g:color>Бордовый</g:color>
+      <g:size>60×200 см</g:size>
+    </item>
+    <item>
+      <g:id>238066390812-matras-brown</g:id>
+      <g:item_group_id>238066390812</g:item_group_id>
+      <g:title>Матрас, Коричневый, 60×200 см</g:title>
+      <g:description>Матрас Banya Line для отдыха и парения в бане и сауне. Банный аксессуар с натуральным наполнителем.</g:description>
+      <g:link>https://banyaline.by/catalog/matras-brown</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor3963-3761-4030-a532-616336656636/76958978.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>305.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Матрасы</g:product_type>
+      <g:color>Коричневый</g:color>
+      <g:size>60×200 см</g:size>
+    </item>
+    <item>
+      <g:id>238066390812-matras-haki</g:id>
+      <g:item_group_id>238066390812</g:item_group_id>
+      <g:title>Матрас, Хаки, 60×200 см</g:title>
+      <g:description>Матрас Banya Line для отдыха и парения в бане и сауне. Банный аксессуар с натуральным наполнителем.</g:description>
+      <g:link>https://banyaline.by/catalog/matras-haki</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor3539-6363-4465-a638-313838383937/42502762.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>305.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Матрасы</g:product_type>
+      <g:color>Хаки</g:color>
+      <g:size>60×200 см</g:size>
+    </item>
+    <item>
+      <g:id>291146441392-juniper</g:id>
+      <g:item_group_id>291146441392</g:item_group_id>
+      <g:title>Комплект для парения из можжевельника</g:title>
+      <g:description>Комплект для парения из можжевельника Banya Line — товар для бани и сауны.</g:description>
+      <g:link>https://banyaline.by/catalog/juniper</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor3535-6337-4731-b362-353330386664/01d9b19f38551f8eb1fed0113ac3026b.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>915.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Можжевеловые панно</g:product_type>
+    </item>
+    <item>
+      <g:id>321788857422-prostyn-white</g:id>
+      <g:item_group_id>321788857422</g:item_group_id>
+      <g:title>Простынь</g:title>
+      <g:description>Простынь Banya Line — товар для бани и сауны.</g:description>
+      <g:link>https://banyaline.by/catalog/prostyn-white</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor3530-6435-4535-a238-666365633435/c7c6bb251ea52f1a7eafa2d203a1d627.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>75.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Текстиль &gt; Простыни</g:product_type>
+    </item>
+    <item>
+      <g:id>324632570032-hanger3</g:id>
+      <g:item_group_id>324632570032</g:item_group_id>
+      <g:title>Фито-полка с тремя отверстиями</g:title>
+      <g:description>Фито-полка с тремя отверстиями Banya Line — товар для бани и сауны.</g:description>
+      <g:link>https://banyaline.by/catalog/hanger3</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor6363-3439-4266-a230-313462616665/9d11a9b0e5a62585c58afcbf6e83c1aa.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>185.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Вешалки и полки</g:product_type>
+    </item>
+    <item>
+      <g:id>361276967876-carrier-black</g:id>
+      <g:item_group_id>361276967876</g:item_group_id>
+      <g:title>Переноска для дров, Черный, 40×40 см</g:title>
+      <g:description>Переноска для дров Banya Line для переноски и хранения дров.</g:description>
+      <g:link>https://banyaline.by/catalog/carrier-black</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor3731-3264-4033-a434-616361323165/550ffba720f0af6d73f1c03fb067bf9e.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>70.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Аксессуары &gt; Дровницы</g:product_type>
+      <g:color>Черный</g:color>
+      <g:size>40×40 см</g:size>
+    </item>
+    <item>
+      <g:id>361276967876-carrier-bord</g:id>
+      <g:item_group_id>361276967876</g:item_group_id>
+      <g:title>Переноска для дров, Бордовый, 40×40 см</g:title>
+      <g:description>Переноска для дров Banya Line для переноски и хранения дров.</g:description>
+      <g:link>https://banyaline.by/catalog/carrier-bord</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor3835-3131-4562-b163-636663396363/f9bfc99b1288bf9ef49f747b880411e6.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>70.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Аксессуары &gt; Дровницы</g:product_type>
+      <g:color>Бордовый</g:color>
+      <g:size>40×40 см</g:size>
+    </item>
+    <item>
+      <g:id>361276967876-carrier-brown</g:id>
+      <g:item_group_id>361276967876</g:item_group_id>
+      <g:title>Переноска для дров, Коричневый, 40×40 см</g:title>
+      <g:description>Переноска для дров Banya Line для переноски и хранения дров.</g:description>
+      <g:link>https://banyaline.by/catalog/carrier-brown</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor3462-3236-4830-a630-633133383538/64b50153bd84e865c3027b2a5632fd25.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>70.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Аксессуары &gt; Дровницы</g:product_type>
+      <g:color>Коричневый</g:color>
+      <g:size>40×40 см</g:size>
+    </item>
+    <item>
+      <g:id>361276967876-carrier-haki</g:id>
+      <g:item_group_id>361276967876</g:item_group_id>
+      <g:title>Переноска для дров, Хаки, 40×40 см</g:title>
+      <g:description>Переноска для дров Banya Line для переноски и хранения дров.</g:description>
+      <g:link>https://banyaline.by/catalog/carrier-haki</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor3465-3234-4062-b733-366632333839/01db3b662e76cbbc1c399483e41a6b8c.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>70.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Аксессуары &gt; Дровницы</g:product_type>
+      <g:color>Хаки</g:color>
+      <g:size>40×40 см</g:size>
+    </item>
+    <item>
+      <g:id>383863973406-straittwo-black</g:id>
+      <g:item_group_id>383863973406</g:item_group_id>
+      <g:title>Проливной матрас «Второе дыхание», Черный, 70×200 см</g:title>
+      <g:description>Проливной матрас «Второе дыхание» Banya Line для отдыха и парения в бане и сауне. Банный аксессуар с натуральным наполнителем.</g:description>
+      <g:link>https://banyaline.by/catalog/straittwo-black</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor3862-6633-4135-a662-396434383438/0312b88c39894f5d7218d78b32eef4df.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>490.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Матрасы</g:product_type>
+      <g:color>Черный</g:color>
+      <g:size>70×200 см</g:size>
+    </item>
+    <item>
+      <g:id>383863973406-straittwo-brown</g:id>
+      <g:item_group_id>383863973406</g:item_group_id>
+      <g:title>Проливной матрас «Второе дыхание», Коричневый, 70×200 см</g:title>
+      <g:description>Проливной матрас «Второе дыхание» Banya Line для отдыха и парения в бане и сауне. Банный аксессуар с натуральным наполнителем.</g:description>
+      <g:link>https://banyaline.by/catalog/straittwo-brown</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor3261-3635-4131-b136-366431303637/4a4939111b7183b73c29130fad2763e7.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>490.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Матрасы</g:product_type>
+      <g:color>Коричневый</g:color>
+      <g:size>70×200 см</g:size>
+    </item>
+    <item>
+      <g:id>383863973406-straittwo-haki</g:id>
+      <g:item_group_id>383863973406</g:item_group_id>
+      <g:title>Проливной матрас «Второе дыхание», Хаки, 70×200 см</g:title>
+      <g:description>Проливной матрас «Второе дыхание» Banya Line для отдыха и парения в бане и сауне. Банный аксессуар с натуральным наполнителем.</g:description>
+      <g:link>https://banyaline.by/catalog/straittwo-haki</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor3233-6366-4339-b039-626537303838/46214e93251174e12a4a07a1dd9bd051.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>490.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Матрасы</g:product_type>
+      <g:color>Хаки</g:color>
+      <g:size>70×200 см</g:size>
+    </item>
+    <item>
+      <g:id>422879110842-black-kittwo</g:id>
+      <g:item_group_id>422879110842</g:item_group_id>
+      <g:title>Комплект. Второе дыхание, Чёрный</g:title>
+      <g:description>Комплект. Второе дыхание Banya Line — товар для бани и сауны.</g:description>
+      <g:link>https://banyaline.by/catalog/black-kittwo</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor3933-6231-4631-b739-666534626264/02ad5c5496ba8c33c3c7eef579df0b14.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>684.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Наборы</g:product_type>
+      <g:color>Чёрный</g:color>
+    </item>
+    <item>
+      <g:id>422879110842-bord-kittwo</g:id>
+      <g:item_group_id>422879110842</g:item_group_id>
+      <g:title>Комплект. Второе дыхание, Бордовый</g:title>
+      <g:description>Комплект. Второе дыхание Banya Line — товар для бани и сауны.</g:description>
+      <g:link>https://banyaline.by/catalog/bord-kittwo</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor3264-6638-4433-b238-396638343263/4e892a0d89c11131f2c2f5beb90534bf.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>684.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Наборы</g:product_type>
+      <g:color>Бордовый</g:color>
+    </item>
+    <item>
+      <g:id>422879110842-brown-kittwo</g:id>
+      <g:item_group_id>422879110842</g:item_group_id>
+      <g:title>Комплект. Второе дыхание, Коричневый</g:title>
+      <g:description>Комплект. Второе дыхание Banya Line — товар для бани и сауны.</g:description>
+      <g:link>https://banyaline.by/catalog/brown-kittwo</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor6466-3466-4435-a136-653434616535/fb22c43c51e39864b0f2452a7a1aa9d3.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>684.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Наборы</g:product_type>
+      <g:color>Коричневый</g:color>
+    </item>
+    <item>
+      <g:id>422879110842-haki-kittwo</g:id>
+      <g:item_group_id>422879110842</g:item_group_id>
+      <g:title>Комплект. Второе дыхание, Хаки</g:title>
+      <g:description>Комплект. Второе дыхание Banya Line — товар для бани и сауны.</g:description>
+      <g:link>https://banyaline.by/catalog/haki-kittwo</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor3137-3863-4065-b161-353936383033/a33989f2b1a7d58a9095a7f83e906880.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>684.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Наборы</g:product_type>
+      <g:color>Хаки</g:color>
+    </item>
+    <item>
+      <g:id>458356471322-prostyn-rubber</g:id>
+      <g:item_group_id>458356471322</g:item_group_id>
+      <g:title>Простыня на резинке, 70/200</g:title>
+      <g:description>Простыня на резинке Banya Line — товар для бани и сауны.</g:description>
+      <g:link>https://banyaline.by/catalog/prostyn-rubber</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor6539-6430-4132-b763-303136336564/9b0276bf108817cab5f7df8d897614cd.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>95.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Текстиль &gt; Простыни</g:product_type>
+      <g:size>70/200</g:size>
+    </item>
+    <item>
+      <g:id>494736057882-hanger2</g:id>
+      <g:item_group_id>494736057882</g:item_group_id>
+      <g:title>Фито-полка с тремя отверстиями и боковой планкой</g:title>
+      <g:description>Фито-полка с тремя отверстиями и боковой планкой Banya Line — товар для бани и сауны.</g:description>
+      <g:link>https://banyaline.by/catalog/hanger2</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor6333-6433-4666-a632-346338383064/147bd2123f53c0cd3be07e9f8c116266.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>165.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Вешалки и полки</g:product_type>
+    </item>
+    <item>
+      <g:id>521288204742-box</g:id>
+      <g:item_group_id>521288204742</g:item_group_id>
+      <g:title>Бокс из трав и веников</g:title>
+      <g:description>Бокс из трав и веников Banya Line — товар для бани и сауны.</g:description>
+      <g:link>https://banyaline.by/catalog/box</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor3739-3431-4435-b837-343066363030/e8ee3e550de5b6d1a29a240075770f84.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>230.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Аксессуары</g:product_type>
+    </item>
+    <item>
+      <g:id>532359459442-zaparnik</g:id>
+      <g:item_group_id>532359459442</g:item_group_id>
+      <g:title>Запарка</g:title>
+      <g:description>Запарка Banya Line — товар для бани и сауны.</g:description>
+      <g:link>https://banyaline.by/catalog/zaparnik</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor3739-3264-4239-a630-356238616536/1bca0a12d19390744f9e4bed6dd59b1f.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>40.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Запарки</g:product_type>
+    </item>
+    <item>
+      <g:id>540626439942-pillow-black</g:id>
+      <g:item_group_id>540626439942</g:item_group_id>
+      <g:title>Подушка, Черный, 40×40 см</g:title>
+      <g:description>Подушка Banya Line для отдыха в бане и сауне.</g:description>
+      <g:link>https://banyaline.by/catalog/pillow-black</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor3730-6230-4166-a565-306264383330/95821186.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>135.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Подушки</g:product_type>
+      <g:color>Черный</g:color>
+      <g:size>40×40 см</g:size>
+    </item>
+    <item>
+      <g:id>540626439942-pillow-bord</g:id>
+      <g:item_group_id>540626439942</g:item_group_id>
+      <g:title>Подушка, Бордовый, 40×40 см</g:title>
+      <g:description>Подушка Banya Line для отдыха в бане и сауне.</g:description>
+      <g:link>https://banyaline.by/catalog/pillow-bord</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor6133-3361-4330-a634-323063663532/27814317.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>135.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Подушки</g:product_type>
+      <g:color>Бордовый</g:color>
+      <g:size>40×40 см</g:size>
+    </item>
+    <item>
+      <g:id>540626439942-pillow-brown</g:id>
+      <g:item_group_id>540626439942</g:item_group_id>
+      <g:title>Подушка, Коричневый, 40×40 см</g:title>
+      <g:description>Подушка Banya Line для отдыха в бане и сауне.</g:description>
+      <g:link>https://banyaline.by/catalog/pillow-brown</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor6237-6130-4330-a262-363935323033/80964843.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>135.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Подушки</g:product_type>
+      <g:color>Коричневый</g:color>
+      <g:size>40×40 см</g:size>
+    </item>
+    <item>
+      <g:id>540626439942-pillow-haki</g:id>
+      <g:item_group_id>540626439942</g:item_group_id>
+      <g:title>Подушка, Хаки, 40×40 см</g:title>
+      <g:description>Подушка Banya Line для отдыха в бане и сауне.</g:description>
+      <g:link>https://banyaline.by/catalog/pillow-haki</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor3565-3465-4239-b066-356536393462/68613324.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>135.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Подушки</g:product_type>
+      <g:color>Хаки</g:color>
+      <g:size>40×40 см</g:size>
+    </item>
+    <item>
+      <g:id>586424964483-scoop</g:id>
+      <g:item_group_id>586424964483</g:item_group_id>
+      <g:title>Коллекция банных черпаков, Сталь, 660 мм, Эргономичная</g:title>
+      <g:description>Коллекция банных черпаков Banya Line — товар для бани и сауны.</g:description>
+      <g:link>https://banyaline.by/catalog/scoop</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor3539-3934-4637-b536-356466323836/8448be41280066f1d8f1c8928ac10163.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>165.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Черпаки и ковши</g:product_type>
+      <g:color>Сталь</g:color>
+    </item>
+    <item>
+      <g:id>597430171582-pareo-persik</g:id>
+      <g:item_group_id>597430171582</g:item_group_id>
+      <g:title>Парео, Нежныйперсик, 71×140 см</g:title>
+      <g:description>Парео Banya Line — товар для бани и сауны.</g:description>
+      <g:link>https://banyaline.by/catalog/pareo-persik</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor3365-3938-4364-a230-626331623862/80079513.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>105.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Одежда &gt; Парео</g:product_type>
+      <g:color>Нежныйперсик</g:color>
+      <g:size>71×140 см</g:size>
+    </item>
+    <item>
+      <g:id>597430171582-pareo-rose</g:id>
+      <g:item_group_id>597430171582</g:item_group_id>
+      <g:title>Парео, Розовый, 71×140 см</g:title>
+      <g:description>Парео Banya Line — товар для бани и сауны.</g:description>
+      <g:link>https://banyaline.by/catalog/pareo-rose</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor3231-3938-4531-b739-653063326439/12358942.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>105.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Одежда &gt; Парео</g:product_type>
+      <g:color>Розовый</g:color>
+      <g:size>71×140 см</g:size>
+    </item>
+    <item>
+      <g:id>597430171582-pareo-white</g:id>
+      <g:item_group_id>597430171582</g:item_group_id>
+      <g:title>Парео, Бежевый, 71×140 см</g:title>
+      <g:description>Парео Banya Line — товар для бани и сауны.</g:description>
+      <g:link>https://banyaline.by/catalog/pareo-white</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor6638-6234-4436-b638-356434373335/b448b21779ddcea9959f3474a54bfbed.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>105.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Одежда &gt; Парео</g:product_type>
+      <g:color>Бежевый</g:color>
+      <g:size>71×140 см</g:size>
+    </item>
+    <item>
+      <g:id>599237255132-matras-blacktwo</g:id>
+      <g:item_group_id>599237255132</g:item_group_id>
+      <g:title>Матрас «Второе дыхание», Черный, 60×200 см</g:title>
+      <g:description>Матрас «Второе дыхание» Banya Line для отдыха и парения в бане и сауне. Банный аксессуар с натуральным наполнителем.</g:description>
+      <g:link>https://banyaline.by/catalog/matras-blacktwo</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor6363-6364-4634-b963-383931333930/ba42e05375fd90c625e9fd4d363f1fc1.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>335.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Матрасы</g:product_type>
+      <g:color>Черный</g:color>
+      <g:size>60×200 см</g:size>
+    </item>
+    <item>
+      <g:id>599237255132-matras-bordtwo</g:id>
+      <g:item_group_id>599237255132</g:item_group_id>
+      <g:title>Матрас «Второе дыхание», Бордовый, 60×200 см</g:title>
+      <g:description>Матрас «Второе дыхание» Banya Line для отдыха и парения в бане и сауне. Банный аксессуар с натуральным наполнителем.</g:description>
+      <g:link>https://banyaline.by/catalog/matras-bordtwo</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor3863-3261-4237-b436-636262623135/0d506527b9d252211e044c69410ac70c.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>335.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Матрасы</g:product_type>
+      <g:color>Бордовый</g:color>
+      <g:size>60×200 см</g:size>
+    </item>
+    <item>
+      <g:id>599237255132-matras-browntwo</g:id>
+      <g:item_group_id>599237255132</g:item_group_id>
+      <g:title>Матрас «Второе дыхание», Коричневый, 60×200 см</g:title>
+      <g:description>Матрас «Второе дыхание» Banya Line для отдыха и парения в бане и сауне. Банный аксессуар с натуральным наполнителем.</g:description>
+      <g:link>https://banyaline.by/catalog/matras-browntwo</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor3532-3865-4937-b838-656233613332/3d738a401b6d8f1a10f304f35df4257f.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>335.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Матрасы</g:product_type>
+      <g:color>Коричневый</g:color>
+      <g:size>60×200 см</g:size>
+    </item>
+    <item>
+      <g:id>599237255132-matras-hakitwo</g:id>
+      <g:item_group_id>599237255132</g:item_group_id>
+      <g:title>Матрас «Второе дыхание», Хаки, 60×200 см</g:title>
+      <g:description>Матрас «Второе дыхание» Banya Line для отдыха и парения в бане и сауне. Банный аксессуар с натуральным наполнителем.</g:description>
+      <g:link>https://banyaline.by/catalog/matras-hakitwo</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor3632-3531-4334-a234-326631343734/3348494e5bffb55833367cb62a89a790.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>335.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Матрасы</g:product_type>
+      <g:color>Хаки</g:color>
+      <g:size>60×200 см</g:size>
+    </item>
+    <item>
+      <g:id>731006087892-hanger1</g:id>
+      <g:item_group_id>731006087892</g:item_group_id>
+      <g:title>Фито-полка с одним отверстием</g:title>
+      <g:description>Фито-полка с одним отверстием Banya Line — товар для бани и сауны.</g:description>
+      <g:link>https://banyaline.by/catalog/hanger1</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor3661-6635-4463-b139-353566396665/f4acdddd1a0d70785c12b6959e39798c.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>85.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Вешалки и полки</g:product_type>
+    </item>
+    <item>
+      <g:id>746112334682-valik-black1660</g:id>
+      <g:item_group_id>746112334682</g:item_group_id>
+      <g:title>Валик (16х60), Черный, 16×60 см</g:title>
+      <g:description>Валик (16х60) Banya Line для комфортного положения тела во время отдыха и парения в бане и сауне.</g:description>
+      <g:link>https://banyaline.by/catalog/valik-black1660</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor3962-6331-4130-b437-326638363030/93677923.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>115.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Валики</g:product_type>
+      <g:color>Черный</g:color>
+      <g:size>16×60 см</g:size>
+    </item>
+    <item>
+      <g:id>746112334682-valik-bord1660</g:id>
+      <g:item_group_id>746112334682</g:item_group_id>
+      <g:title>Валик (16х60), Бордовый, 16×60 см</g:title>
+      <g:description>Валик (16х60) Banya Line для комфортного положения тела во время отдыха и парения в бане и сауне.</g:description>
+      <g:link>https://banyaline.by/catalog/valik-bord1660</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor3838-6131-4632-a265-373635393132/22120625.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>115.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Валики</g:product_type>
+      <g:color>Бордовый</g:color>
+      <g:size>16×60 см</g:size>
+    </item>
+    <item>
+      <g:id>746112334682-valik-brown1660</g:id>
+      <g:item_group_id>746112334682</g:item_group_id>
+      <g:title>Валик (16х60), Коричневый, 16×60 см</g:title>
+      <g:description>Валик (16х60) Banya Line для комфортного положения тела во время отдыха и парения в бане и сауне.</g:description>
+      <g:link>https://banyaline.by/catalog/valik-brown1660</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor3633-3665-4437-a638-386565633663/87727161.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>115.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Валики</g:product_type>
+      <g:color>Коричневый</g:color>
+      <g:size>16×60 см</g:size>
+    </item>
+    <item>
+      <g:id>746112334682-valik-haki1660</g:id>
+      <g:item_group_id>746112334682</g:item_group_id>
+      <g:title>Валик (16х60), Хаки, 16×60 см</g:title>
+      <g:description>Валик (16х60) Banya Line для комфортного положения тела во время отдыха и парения в бане и сауне.</g:description>
+      <g:link>https://banyaline.by/catalog/valik-haki1660</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor6139-6263-4762-b931-396366656263/50420769.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>115.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Валики</g:product_type>
+      <g:color>Хаки</g:color>
+      <g:size>16×60 см</g:size>
+    </item>
+    <item>
+      <g:id>758819170602-valik-black1148</g:id>
+      <g:item_group_id>758819170602</g:item_group_id>
+      <g:title>Валик (11х48), Черный, 11×48 см</g:title>
+      <g:description>Валик (11х48) Banya Line для комфортного положения тела во время отдыха и парения в бане и сауне.</g:description>
+      <g:link>https://banyaline.by/catalog/valik-black1148</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor6562-6138-4236-b764-306634313136/44831551.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>105.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Валики</g:product_type>
+      <g:color>Черный</g:color>
+      <g:size>11×48 см</g:size>
+    </item>
+    <item>
+      <g:id>758819170602-valik-bord1148</g:id>
+      <g:item_group_id>758819170602</g:item_group_id>
+      <g:title>Валик (11х48), Бордовый, 11×48 см</g:title>
+      <g:description>Валик (11х48) Banya Line для комфортного положения тела во время отдыха и парения в бане и сауне.</g:description>
+      <g:link>https://banyaline.by/catalog/valik-bord1148</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor3931-6265-4164-b662-393931343834/37054559.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>105.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Валики</g:product_type>
+      <g:color>Бордовый</g:color>
+      <g:size>11×48 см</g:size>
+    </item>
+    <item>
+      <g:id>758819170602-valik-brown1148</g:id>
+      <g:item_group_id>758819170602</g:item_group_id>
+      <g:title>Валик (11х48), Коричневый, 11×48 см</g:title>
+      <g:description>Валик (11х48) Banya Line для комфортного положения тела во время отдыха и парения в бане и сауне.</g:description>
+      <g:link>https://banyaline.by/catalog/valik-brown1148</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor3132-6663-4465-b531-303731613337/59178683.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>105.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Валики</g:product_type>
+      <g:color>Коричневый</g:color>
+      <g:size>11×48 см</g:size>
+    </item>
+    <item>
+      <g:id>758819170602-valik-haki1148</g:id>
+      <g:item_group_id>758819170602</g:item_group_id>
+      <g:title>Валик (11х48), Хаки, 11×48 см</g:title>
+      <g:description>Валик (11х48) Banya Line для комфортного положения тела во время отдыха и парения в бане и сауне.</g:description>
+      <g:link>https://banyaline.by/catalog/valik-haki1148</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor3632-6431-4866-a533-306431356562/97187410.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>105.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Валики</g:product_type>
+      <g:color>Хаки</g:color>
+      <g:size>11×48 см</g:size>
+    </item>
+    <item>
+      <g:id>763264755156-ventilation</g:id>
+      <g:item_group_id>763264755156</g:item_group_id>
+      <g:title>Инженерная вентиляция парной, Горизонтальная</g:title>
+      <g:description>Инженерная вентиляция парной Banya Line — товар для бани и сауны.</g:description>
+      <g:link>https://banyaline.by/catalog/ventilation</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor3630-6362-4237-a437-616333613861/c3d913e8ed12762272c85854b5e5a65d.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>405.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Аксессуары</g:product_type>
+    </item>
+    <item>
+      <g:id>774015694012-polotence-blue</g:id>
+      <g:item_group_id>774015694012</g:item_group_id>
+      <g:title>Полотенце, Темы-синий</g:title>
+      <g:description>Полотенце Banya Line — товар для бани и сауны.</g:description>
+      <g:link>https://banyaline.by/catalog/polotence-blue</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor3365-3661-4264-b134-353161616161/b100f27dec58bdfc143ba4f4f168a4e8.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>95.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Текстиль &gt; Полотенца</g:product_type>
+      <g:color>Темы-синий</g:color>
+    </item>
+    <item>
+      <g:id>774015694012-polotence-chocolate</g:id>
+      <g:item_group_id>774015694012</g:item_group_id>
+      <g:title>Полотенце, Шоколад</g:title>
+      <g:description>Полотенце Banya Line — товар для бани и сауны.</g:description>
+      <g:link>https://banyaline.by/catalog/polotence-chocolate</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor3734-3962-4966-a466-666561333330/50034e403aae03ff021d41d074272661.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>95.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Текстиль &gt; Полотенца</g:product_type>
+      <g:color>Шоколад</g:color>
+    </item>
+    <item>
+      <g:id>774015694012-polotence-milk</g:id>
+      <g:item_group_id>774015694012</g:item_group_id>
+      <g:title>Полотенце, Молочный</g:title>
+      <g:description>Полотенце Banya Line — товар для бани и сауны.</g:description>
+      <g:link>https://banyaline.by/catalog/polotence-milk</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor6662-6439-4263-b061-386464343237/ad39d88dc2e17c83e514f38c7c0a0ab2.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>95.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Текстиль &gt; Полотенца</g:product_type>
+      <g:color>Молочный</g:color>
+    </item>
+    <item>
+      <g:id>832512795932-broom</g:id>
+      <g:item_group_id>832512795932</g:item_group_id>
+      <g:title>Запарник для веников</g:title>
+      <g:description>Запарник для веников Banya Line — товар для бани и сауны.</g:description>
+      <g:link>https://banyaline.by/catalog/broom</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor3961-3361-4466-a332-346533323766/84490ce05da666f0791ed48f74f1289c.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>115.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Аксессуары</g:product_type>
+    </item>
+    <item>
+      <g:id>842413486063-ladle-hanger</g:id>
+      <g:item_group_id>842413486063</g:item_group_id>
+      <g:title>Настенная вешалка из дуба</g:title>
+      <g:description>Настенная вешалка из дуба Banya Line — товар для бани и сауны.</g:description>
+      <g:link>https://banyaline.by/catalog/ladle-hanger</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor6561-3232-4164-b731-373531393338/dd23716ec7c5b880c9e5150c99ae2b2e.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>65.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Вешалки и полки</g:product_type>
+    </item>
+    <item>
+      <g:id>904037344882-black-kit</g:id>
+      <g:item_group_id>904037344882</g:item_group_id>
+      <g:title>Полный комплект, Чёрный</g:title>
+      <g:description>Полный комплект Banya Line — товар для бани и сауны.</g:description>
+      <g:link>https://banyaline.by/catalog/black-kit</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor3939-3164-4636-b530-346434656665/e65e7fbe5d7bccecfb9e2445d5620ef8.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>639.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Наборы</g:product_type>
+      <g:color>Чёрный</g:color>
+    </item>
+    <item>
+      <g:id>904037344882-bord-kit</g:id>
+      <g:item_group_id>904037344882</g:item_group_id>
+      <g:title>Полный комплект, Бордовый</g:title>
+      <g:description>Полный комплект Banya Line — товар для бани и сауны.</g:description>
+      <g:link>https://banyaline.by/catalog/bord-kit</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor3166-3534-4435-a430-656531623365/9723af084f32fe0fcbdff381f13fce4a.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>639.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Наборы</g:product_type>
+      <g:color>Бордовый</g:color>
+    </item>
+    <item>
+      <g:id>904037344882-brown-kit</g:id>
+      <g:item_group_id>904037344882</g:item_group_id>
+      <g:title>Полный комплект, Коричневый</g:title>
+      <g:description>Полный комплект Banya Line — товар для бани и сауны.</g:description>
+      <g:link>https://banyaline.by/catalog/brown-kit</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor3063-3436-4830-b935-643565626439/c155c7daee34edc4f2623f6010b9f04e.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>639.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Наборы</g:product_type>
+      <g:color>Коричневый</g:color>
+    </item>
+    <item>
+      <g:id>904037344882-haki-kit</g:id>
+      <g:item_group_id>904037344882</g:item_group_id>
+      <g:title>Полный комплект, Хаки</g:title>
+      <g:description>Полный комплект Banya Line — товар для бани и сауны.</g:description>
+      <g:link>https://banyaline.by/catalog/haki-kit</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor3766-3833-4736-b564-366563366436/7e154a522c724e92074788c22a18a1c8.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>639.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Наборы</g:product_type>
+      <g:color>Хаки</g:color>
+    </item>
+    <item>
+      <g:id>922701995222-kilt-grafit</g:id>
+      <g:item_group_id>922701995222</g:item_group_id>
+      <g:title>Килт, Графитовый, 71×140 см</g:title>
+      <g:description>Килт Banya Line для комфортного использования в бане и сауне.</g:description>
+      <g:link>https://banyaline.by/catalog/kilt-grafit</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor3665-6235-4462-b333-666432666338/45207694.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>95.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Одежда &gt; Килты</g:product_type>
+      <g:color>Графитовый</g:color>
+      <g:size>71×140 см</g:size>
+    </item>
+    <item>
+      <g:id>922701995222-kilt-white</g:id>
+      <g:item_group_id>922701995222</g:item_group_id>
+      <g:title>Килт, Бежевый, 71×140 см</g:title>
+      <g:description>Килт Banya Line для комфортного использования в бане и сауне.</g:description>
+      <g:link>https://banyaline.by/catalog/kilt-white</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor3466-3539-4331-b230-623662373264/046267be9818da73c11893b1722e5e51.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>95.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Одежда &gt; Килты</g:product_type>
+      <g:color>Бежевый</g:color>
+      <g:size>71×140 см</g:size>
+    </item>
+    <item>
+      <g:id>936072887843-hanger-shelf</g:id>
+      <g:item_group_id>936072887843</g:item_group_id>
+      <g:title>Вешалка-полка из массива дуба</g:title>
+      <g:description>Вешалка-полка из массива дуба Banya Line — товар для бани и сауны.</g:description>
+      <g:link>https://banyaline.by/catalog/hanger-shelf</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor6662-6465-4436-b433-663365636466/b1440c353c70d1440fc1b43ef2b19b13.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>385.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Вешалки и полки</g:product_type>
+    </item>
+    <item>
+      <g:id>961049400836-strait-black</g:id>
+      <g:item_group_id>961049400836</g:item_group_id>
+      <g:title>Проливной матрас, Черный, 70×200 см</g:title>
+      <g:description>Проливной матрас Banya Line для отдыха и парения в бане и сауне. Банный аксессуар с натуральным наполнителем.</g:description>
+      <g:link>https://banyaline.by/catalog/strait-black</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor3237-3630-4731-b933-633030343333/138304dc579d4062ac89bb08490402b1.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>490.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Матрасы</g:product_type>
+      <g:color>Черный</g:color>
+      <g:size>70×200 см</g:size>
+    </item>
+    <item>
+      <g:id>961049400836-strait-brown</g:id>
+      <g:item_group_id>961049400836</g:item_group_id>
+      <g:title>Проливной матрас, Коричневый, 70×200 см</g:title>
+      <g:description>Проливной матрас Banya Line для отдыха и парения в бане и сауне. Банный аксессуар с натуральным наполнителем.</g:description>
+      <g:link>https://banyaline.by/catalog/strait-brown</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor3733-6138-4239-a632-336239653962/ff5a4e462985110db4ca0f3ba00a9bc5.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>490.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Матрасы</g:product_type>
+      <g:color>Коричневый</g:color>
+      <g:size>70×200 см</g:size>
+    </item>
+    <item>
+      <g:id>961049400836-strait-hacki</g:id>
+      <g:item_group_id>961049400836</g:item_group_id>
+      <g:title>Проливной матрас, Хаки, 70×200 см</g:title>
+      <g:description>Проливной матрас Banya Line для отдыха и парения в бане и сауне. Банный аксессуар с натуральным наполнителем.</g:description>
+      <g:link>https://banyaline.by/catalog/strait-hacki</g:link>
+      <g:image_link>https://static.tildacdn.biz/stor6532-3134-4131-b161-363866363962/d3e4441677e6a68eff1b722509896522.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>490.00 BYN</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Banya Line</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Баня и сауна &gt; Матрасы</g:product_type>
+      <g:color>Хаки</g:color>
+      <g:size>70×200 см</g:size>
     </item>
   </channel>
 </rss>
