@@ -4,12 +4,12 @@
     <title>Banya Line</title>
     <link>https://banyaline.by</link>
     <description>Banya Line Google Merchant Center feed from Tilda Store API</description>
-    <lastBuildDate>Wed, 26 Aug 2026 05:07:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 21:14:37 +0000</lastBuildDate>
     <item>
       <g:id>114030622912-black-metall</g:id>
       <g:item_group_id>114030622912</g:item_group_id>
-      <g:title>Второе дыхание. Металл, Чёрныйметалл</g:title>
-      <g:description>Второе дыхание. Металл Banya Line — товар для бани и сауны.</g:description>
+      <g:title>Вентиляция для бани Второе дыхание. Металл, Чёрныйметалл</g:title>
+      <g:description>Вентиляция для бани Второе дыхание. Металл Banya Line — товар для бани и сауны.</g:description>
       <g:link>https://banyaline.by/catalog/black-metall</g:link>
       <g:image_link>https://static.tildacdn.biz/stor3763-6465-4634-a531-376539316333/180e89190a70aad0fa85c4311d7f1864.jpg</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -23,8 +23,8 @@
     <item>
       <g:id>114030622912-metall</g:id>
       <g:item_group_id>114030622912</g:item_group_id>
-      <g:title>Второе дыхание. Металл</g:title>
-      <g:description>Второе дыхание. Металл Banya Line — товар для бани и сауны.</g:description>
+      <g:title>Вентиляция для бани Второе дыхание. Металл</g:title>
+      <g:description>Вентиляция для бани Второе дыхание. Металл Banya Line — товар для бани и сауны.</g:description>
       <g:link>https://banyaline.by/catalog/metall</g:link>
       <g:image_link>https://static.tildacdn.biz/stor6564-6265-4337-b335-383063643938/a5335b26d8c62f513675b1d0066ce04f.jpg</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -879,8 +879,8 @@
     <item>
       <g:id>763264755156-ventilation</g:id>
       <g:item_group_id>763264755156</g:item_group_id>
-      <g:title>Инженерная вентиляция парной, Горизонтальная</g:title>
-      <g:description>Инженерная вентиляция парной Banya Line — товар для бани и сауны.</g:description>
+      <g:title>Инженерная вентиляция Басту для парной, Горизонтальная</g:title>
+      <g:description>Инженерная вентиляция Басту для парной Banya Line — товар для бани и сауны.</g:description>
       <g:link>https://banyaline.by/catalog/ventilation</g:link>
       <g:image_link>https://static.tildacdn.biz/stor3630-6362-4237-a437-616333613861/c3d913e8ed12762272c85854b5e5a65d.jpg</g:image_link>
       <g:availability>in_stock</g:availability>
