@@ -4,11 +4,11 @@
     <title>Banya Line</title>
     <link>https://banyaline.by</link>
     <description>Banya Line Google Merchant Center feed from Tilda Store API</description>
-    <lastBuildDate>Sat, 19 Sep 2026 08:01:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 08:33:25 +0000</lastBuildDate>
     <item>
       <g:id>114030622912-black-metall</g:id>
       <g:item_group_id>114030622912</g:item_group_id>
-      <g:title>Вентиляция для бани «Второе дыхание» Banya Line, чёрный металл</g:title>
+      <g:title>Вентиляция для бани «Второе дыхание» Banya Line, цвет /catalog/black-metall</g:title>
       <g:description>Вентиляция для бани Второе дыхание. Металл Banya Line — товар для бани и сауны.</g:description>
       <g:link>https://banyaline.by/catalog/black-metall</g:link>
       <g:image_link>https://static.tildacdn.biz/stor3763-6465-4634-a531-376539316333/180e89190a70aad0fa85c4311d7f1864.jpg</g:image_link>
@@ -18,12 +18,12 @@
       <g:brand>Banya Line</g:brand>
       <g:identifier_exists>no</g:identifier_exists>
       <g:product_type>Баня и сауна &gt; Аксессуары</g:product_type>
-      <g:color>Чёрныйметалл</g:color>
+      <g:color>/catalog/black-metall</g:color>
     </item>
     <item>
       <g:id>114030622912-metall</g:id>
       <g:item_group_id>114030622912</g:item_group_id>
-      <g:title>Вентиляция для бани «Второе дыхание» Banya Line, металл</g:title>
+      <g:title>Вентиляция для бани «Второе дыхание» Banya Line, цвет /catalog/metall</g:title>
       <g:description>Вентиляция для бани Второе дыхание. Металл Banya Line — товар для бани и сауны.</g:description>
       <g:link>https://banyaline.by/catalog/metall</g:link>
       <g:image_link>https://static.tildacdn.biz/stor6564-6265-4337-b335-383063643938/a5335b26d8c62f513675b1d0066ce04f.jpg</g:image_link>
@@ -33,7 +33,7 @@
       <g:brand>Banya Line</g:brand>
       <g:identifier_exists>no</g:identifier_exists>
       <g:product_type>Баня и сауна &gt; Аксессуары</g:product_type>
-      <g:color>Металл</g:color>
+      <g:color>/catalog/metall</g:color>
     </item>
     <item>
       <g:id>117208871892-veer-black</g:id>
@@ -209,11 +209,11 @@
       <g:size>23×60 см</g:size>
     </item>
     <item>
-      <g:id>238066390812-matras-black</g:id>
+      <g:id>238066390812-matras-brown</g:id>
       <g:item_group_id>238066390812</g:item_group_id>
       <g:title>Матрас для бани Banya Line, 60×200 см, цвет чёрный</g:title>
       <g:description>Идеальное средство для равномерного прогрева тела и расслабления мышц в парной</g:description>
-      <g:link>https://banyaline.by/catalog/matras-black</g:link>
+      <g:link>https://banyaline.by/catalog/matras-black /catalog/matras-haki /catalog/matras-bord /catalog/matras-brown</g:link>
       <g:image_link>https://static.tildacdn.biz/stor6531-6366-4539-b438-393633396238/69746647.jpg</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>305.00 BYN</g:price>
@@ -222,54 +222,6 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:product_type>Баня и сауна &gt; Матрасы</g:product_type>
       <g:color>Черный</g:color>
-      <g:size>60×200 см</g:size>
-    </item>
-    <item>
-      <g:id>238066390812-matras-bord</g:id>
-      <g:item_group_id>238066390812</g:item_group_id>
-      <g:title>Матрас для бани Banya Line, 60×200 см, цвет бордовый</g:title>
-      <g:description>Идеальное средство для равномерного прогрева тела и расслабления мышц в парной</g:description>
-      <g:link>https://banyaline.by/catalog/matras-bord</g:link>
-      <g:image_link>https://static.tildacdn.biz/stor6438-6561-4331-a464-316132343165/96038872.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>305.00 BYN</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>Banya Line</g:brand>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:product_type>Баня и сауна &gt; Матрасы</g:product_type>
-      <g:color>Бордовый</g:color>
-      <g:size>60×200 см</g:size>
-    </item>
-    <item>
-      <g:id>238066390812-matras-brown</g:id>
-      <g:item_group_id>238066390812</g:item_group_id>
-      <g:title>Матрас для бани Banya Line, 60×200 см, цвет коричневый</g:title>
-      <g:description>Идеальное средство для равномерного прогрева тела и расслабления мышц в парной</g:description>
-      <g:link>https://banyaline.by/catalog/matras-brown</g:link>
-      <g:image_link>https://static.tildacdn.biz/stor3963-3761-4030-a532-616336656636/76958978.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>305.00 BYN</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>Banya Line</g:brand>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:product_type>Баня и сауна &gt; Матрасы</g:product_type>
-      <g:color>Коричневый</g:color>
-      <g:size>60×200 см</g:size>
-    </item>
-    <item>
-      <g:id>238066390812-matras-haki</g:id>
-      <g:item_group_id>238066390812</g:item_group_id>
-      <g:title>Матрас для бани Banya Line, 60×200 см, цвет хаки</g:title>
-      <g:description>Идеальное средство для равномерного прогрева тела и расслабления мышц в парной</g:description>
-      <g:link>https://banyaline.by/catalog/matras-haki</g:link>
-      <g:image_link>https://static.tildacdn.biz/stor3539-6363-4465-a638-313838383937/42502762.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>305.00 BYN</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>Banya Line</g:brand>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:product_type>Баня и сауна &gt; Матрасы</g:product_type>
-      <g:color>Хаки</g:color>
       <g:size>60×200 см</g:size>
     </item>
     <item>
